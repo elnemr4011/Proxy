@@ -12,10 +12,12 @@ ss://03993481-abae-40de-bbaa-1846c45085e5@em-3.speedmizban.net:2044?encryption=n
 ss://03993481-abae-40de-bbaa-1846c45085e5@em-4.speedmizban.net:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com
 ss://03993481-abae-40de-bbaa-1846c45085e5@em-5.speedmizban.net:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com
 ss://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0
+ss://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws
 ss://0afa42bd-838e-42ca-a36b-24ca2e5c5a69@filmnet.filimnet.com:80/?type=xhttp&path=%2Fcdn%2Fassets%3Fv%3D12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none
 ss://0c2a1be7-cdde-4854-a45c-ddec52584fa1@65.109.208.107:2083?encryption=none&amp;security=reality&amp;sni=khamenei.ir&amp;fp=firefox&amp;pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&amp;sid=54602915a7&amp;spx=%2F&amp;type=grpc&amp;authority=&amp;serviceName=melov2ray&amp;mode=gun
 ss://0c57c911-f1cc-4f0f-a90e-cc93e85df595@snapp.someoneofiran.xyz:2096?mode=auto&path=%2Fturkey&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ir.f-a-r-z-a-d.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=ir.f-a-r-z-a-d.ir
 ss://146eb6cf-a99c-4022-85ca-022cf81502dc@194.127.179.220:443?security=reality&amp;encryption=none&amp;pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=web.max.ru&amp;sid=247fd6dab1a34a48
+ss://146eb6cf-a99c-4022-85ca-022cf81502dc@93.114.194.131:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48
 ss://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp
 ss://17341938-2f40-4aca-a3c7-4e65655f7285@172.66.40.99:8080?path=%2F
 ss://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?path=%2Fid-tksi&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=graph.instagram.com.cyylr.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=graph.instagram.com.cyylr.eu.cc
@@ -25,14 +27,11 @@ ss://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&amp;secu
 ss://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=investors.spotify.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=investors.spotify.com.cyylr.eu.cc
 ss://24e3177e-a9cb-4aee-b58b-6a58f5dc9254@aus-1.pandaonline.org:443?security=reality&encryption=none&pbk=Ttb_VDtrJzhK5Wo6I2flNzlV6THweySWh4eOMmAIoxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aus-1.pandaonline.org
 ss://253vv71_77-977-977-917nvv73vv70336_vv71577-9fu-_vR1177-977-9de-_vTU6253vv71_77-977-977-917nvv73vv70336_vv71577-9fu-_vR1177-977-9de-_vTU@167.82.85.155:80
-ss://302929e6-37ae-4d63-9e84-b0e781ceb72a@188.114.97.6:443?encryption=none&security=tls&sni=cache.netflix.com.r3xxe.eu.cc&type=ws&host=cache.netflix.com.r3xxe.eu.cc&path=%2Fus-gllc
 ss://3be38f92-c6ca-4845-b6d5-6ce191eb37c5@57.131.16.203:80?security=none&encryption=none&headerType=none&type=tcp
 ss://429f43ca-087a-4fbc-9d88-9d9007bf30bc@188.114.97.6:443?path=%2Fmy-wbv&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=unnes.ac.id.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=unnes.ac.id.cyylr.eu.cc
 ss://442ea97e-01ff-4f2c-a093-2159b5a41c58@104.16.0.0:2052?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=tr-cd.sublink-vip2.com&amp;type=xhttp
 ss://47bd0b60-29ca-4755-a314-9f1ef398657e@104.16.245.154:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=hong2333.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=hong2333.pages.dev
 ss://4e783787-4de7-51de-ae32-01ce7203b838@185.171.202.76:42652?mode=stream-one&amp;path=%2Fskkwkqknsjejejwj&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=omm.kotlet.org&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=1&amp;sni=yahoo.com
-ss://660d2cac-a5c0-45ea-8629-ab8bd0f19972@188.114.97.6:443?encryption=none&security=tls&sni=blog.webex.com.r3xxe.eu.cc&type=ws&host=blog.webex.com.r3xxe.eu.cc&path=%2Fus-gllc
-ss://67138f72-8464-4c7d-84de-c28f28eb2d85@188.114.97.6:443?encryption=none&security=tls&sni=bakrie.ac.id.r3xxe.eu.cc&type=ws&host=bakrie.ac.id.r3xxe.eu.cc&path=%2Fus-gllc
 ss://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&amp;encryption=none&amp;pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.google.com&amp;sid=25425ff6fa
 ss://7094df26-af60-41c4-afac-857060d1bab0@jealous-competition.seotoolsforyou.co.uk:80/?type=ws&encryption=none&flow=&path=%2F?---Join-
 ss://77-917Tvv71O77-977-9Zx5_77-9HO-_vd-aa--_ve-_vXXvv73vv73vv71-77-977-9Xu-_vTrvv73XtO-_vU7vv73vv71nHn_vv70c77-935pr77-977-9de-_ve-_ve-_vX7vv73vv71e77-9@zmaoz.faculty.ucdavis.edu:443
@@ -111,8 +110,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=none&amp
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?encryption=none&amp;security=none&amp;type=grpc
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc
 ss://f924939e-2d9a-46b7-a3c2-67a225b7c027@51.89.2.113:8081?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=nT4JZTeUVOw-XZ-htdqbFi1je4ZHeg-ALICrDk2usFE&amp;sid=d19d7a2d3da8595a&amp;type=tcp&amp;headerType=none
 trojan://!str18844@zxcvbn@os-tr-1.cats22.net:443
 trojan://!str18844@zxcvbn@os-tr-2.cats22.net:443
@@ -194,7 +191,10 @@ trojan://JeSDlzqBCKqUCmDskZDSIvgscdvOYWbd@gkifo-8-tr-0.tw-tpe-hinet-0-0.o-two.xy
 trojan://KqoTtwVTKgdCxFRwGDNAeUgPHyUlpgKJ@gkifo-8-tr-0.tw-tpe-hinet-0-0.o-two.xyz:889
 trojan://Tn9ytcFXsOnbUsJYKJ@us-3.tr202605.com:443?
 trojan://Tn9ytcFXsOnbUsJYKJ@us-3.tr202605.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0
+trojan://Tn9ytcFXsOnbUsJYKJ@us-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0
 trojan://ahqnCDdRaeqkmsUxGMgYOLxlJGQnqPwa@qaavl-4-tr-1.hkg-01.o-two.xyz:889
+trojan://auto@172.66.45.2:443/?type=tcp&security=tls&sni=dcf741e8.epeius-2gy.pages.dev
+trojan://auto@172.66.45.2:443/?type=tcp&security=tls&sni=dcf741e8.epeius-2gy.pages.dev&allowInsecure=1
 trojan://darzPESKScqhjPDiSqawqUTWBxSRSchm@qaavl-4-tr-1.hkg-01.o-two.xyz:889
 trojan://df3ce737-09ae-4c2a-98fe-73840561ab67@tr-a-cmi.yearone.cyou:33440?allowInsecure=1&sni=tr-a-cmi.yearone.cyou
 trojan://df3ce737-09ae-4c2a-98fe-73840561ab67@tr-c-cmi.yearone.cyou:33660?allowInsecure=1&sni=tr-c-cmi.yearone.cyou
